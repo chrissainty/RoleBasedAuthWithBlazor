@@ -1,0 +1,262 @@
+{
+  "format": 1,
+  "restore": {
+    "Z:\\Git\\chrissainty\\AuthorizationWithClientSideBlazor\\src\\AuthenticationWithClientSideBlazor.Server\\AuthenticationWithClientSideBlazor.Server.csproj": {}
+  },
+  "projects": {
+    "Z:\\Git\\chrissainty\\AuthorizationWithClientSideBlazor\\src\\AuthenticationWithClientSideBlazor.Client\\AuthorizationWithClientSideBlazor.Client.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "Z:\\Git\\chrissainty\\AuthorizationWithClientSideBlazor\\src\\AuthenticationWithClientSideBlazor.Client\\AuthorizationWithClientSideBlazor.Client.csproj",
+        "projectName": "AuthorizationWithClientSideBlazor.Client",
+        "projectPath": "Z:\\Git\\chrissainty\\AuthorizationWithClientSideBlazor\\src\\AuthenticationWithClientSideBlazor.Client\\AuthorizationWithClientSideBlazor.Client.csproj",
+        "packagesPath": "C:\\Users\\chrissainty\\.nuget\\packages\\",
+        "outputPath": "Z:\\Git\\chrissainty\\AuthorizationWithClientSideBlazor\\src\\AuthenticationWithClientSideBlazor.Client\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\chrissainty\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {
+              "Z:\\Git\\chrissainty\\AuthorizationWithClientSideBlazor\\src\\AuthenticationWithClientSideBlazor.Shared\\AuthenticationWithClientSideBlazor.Shared.csproj": {
+                "projectPath": "Z:\\Git\\chrissainty\\AuthorizationWithClientSideBlazor\\src\\AuthenticationWithClientSideBlazor.Shared\\AuthenticationWithClientSideBlazor.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "Blazored.LocalStorage": {
+              "target": "Package",
+              "version": "[2.0.2, )"
+            },
+            "Microsoft.AspNetCore.Blazor": {
+              "target": "Package",
+              "version": "[3.0.0-preview6.19307.2, )"
+            },
+            "Microsoft.AspNetCore.Blazor.Build": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.0.0-preview6.19307.2, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "Z:\\Git\\chrissainty\\AuthorizationWithClientSideBlazor\\src\\AuthenticationWithClientSideBlazor.Server\\AuthenticationWithClientSideBlazor.Server.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "Z:\\Git\\chrissainty\\AuthorizationWithClientSideBlazor\\src\\AuthenticationWithClientSideBlazor.Server\\AuthenticationWithClientSideBlazor.Server.csproj",
+        "projectName": "AuthenticationWithClientSideBlazor.Server",
+        "projectPath": "Z:\\Git\\chrissainty\\AuthorizationWithClientSideBlazor\\src\\AuthenticationWithClientSideBlazor.Server\\AuthenticationWithClientSideBlazor.Server.csproj",
+        "packagesPath": "C:\\Users\\chrissainty\\.nuget\\packages\\",
+        "outputPath": "Z:\\Git\\chrissainty\\AuthorizationWithClientSideBlazor\\src\\AuthenticationWithClientSideBlazor.Server\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\chrissainty\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {
+              "Z:\\Git\\chrissainty\\AuthorizationWithClientSideBlazor\\src\\AuthenticationWithClientSideBlazor.Client\\AuthorizationWithClientSideBlazor.Client.csproj": {
+                "projectPath": "Z:\\Git\\chrissainty\\AuthorizationWithClientSideBlazor\\src\\AuthenticationWithClientSideBlazor.Client\\AuthorizationWithClientSideBlazor.Client.csproj"
+              },
+              "Z:\\Git\\chrissainty\\AuthorizationWithClientSideBlazor\\src\\AuthenticationWithClientSideBlazor.Shared\\AuthenticationWithClientSideBlazor.Shared.csproj": {
+                "projectPath": "Z:\\Git\\chrissainty\\AuthorizationWithClientSideBlazor\\src\\AuthenticationWithClientSideBlazor.Shared\\AuthenticationWithClientSideBlazor.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "dependencies": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[3.0.0-preview6.19307.2, )"
+            },
+            "Microsoft.AspNetCore.Blazor.Server": {
+              "target": "Package",
+              "version": "[3.0.0-preview6.19307.2, )"
+            },
+            "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.0.0-preview6.19307.2, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.0.0-preview6.19307.2, )"
+            },
+            "Microsoft.AspNetCore.Identity.UI": {
+              "target": "Package",
+              "version": "[3.0.0-preview6.19307.2, )"
+            },
+            "Microsoft.AspNetCore.Mvc.NewtonsoftJson": {
+              "target": "Package",
+              "version": "[3.0.0-preview6.19307.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.0.0-preview6.19304.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "target": "Package",
+              "version": "[3.0.0-preview6.19304.10, )"
+            },
+            "Microsoft.Extensions.Logging.Debug": {
+              "target": "Package",
+              "version": "[3.0.0-preview6.19304.6, )"
+            },
+            "Microsoft.NETCore.App": {
+              "include": "None",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.0.0-preview7-27912-14, )",
+              "autoReferenced": true
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[3.0.0-preview6-19319-03, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          }
+        }
+      }
+    },
+    "Z:\\Git\\chrissainty\\AuthorizationWithClientSideBlazor\\src\\AuthenticationWithClientSideBlazor.Shared\\AuthenticationWithClientSideBlazor.Shared.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "Z:\\Git\\chrissainty\\AuthorizationWithClientSideBlazor\\src\\AuthenticationWithClientSideBlazor.Shared\\AuthenticationWithClientSideBlazor.Shared.csproj",
+        "projectName": "AuthenticationWithClientSideBlazor.Shared",
+        "projectPath": "Z:\\Git\\chrissainty\\AuthorizationWithClientSideBlazor\\src\\AuthenticationWithClientSideBlazor.Shared\\AuthenticationWithClientSideBlazor.Shared.csproj",
+        "packagesPath": "C:\\Users\\chrissainty\\.nuget\\packages\\",
+        "outputPath": "Z:\\Git\\chrissainty\\AuthorizationWithClientSideBlazor\\src\\AuthenticationWithClientSideBlazor.Shared\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\chrissainty\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "System.ComponentModel.Annotations": {
+              "target": "Package",
+              "version": "[4.6.0-preview6.19303.8, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
