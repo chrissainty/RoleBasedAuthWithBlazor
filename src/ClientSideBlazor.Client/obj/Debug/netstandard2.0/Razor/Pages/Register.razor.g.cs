@@ -25,46 +25,41 @@ using Microsoft.AspNetCore.Components.Forms;
 #line default
 #line hidden
 #line 4 "Z:\Git\chrissainty\RoleBasedAuthWithClientSideBlazor\src\ClientSideBlazor.Client\_Imports.razor"
-using Microsoft.AspNetCore.Components.Layouts;
-
-#line default
-#line hidden
-#line 5 "Z:\Git\chrissainty\RoleBasedAuthWithClientSideBlazor\src\ClientSideBlazor.Client\_Imports.razor"
 using Microsoft.AspNetCore.Components.Routing;
 
 #line default
 #line hidden
-#line 6 "Z:\Git\chrissainty\RoleBasedAuthWithClientSideBlazor\src\ClientSideBlazor.Client\_Imports.razor"
+#line 5 "Z:\Git\chrissainty\RoleBasedAuthWithClientSideBlazor\src\ClientSideBlazor.Client\_Imports.razor"
 using Microsoft.JSInterop;
 
 #line default
 #line hidden
-#line 7 "Z:\Git\chrissainty\RoleBasedAuthWithClientSideBlazor\src\ClientSideBlazor.Client\_Imports.razor"
+#line 6 "Z:\Git\chrissainty\RoleBasedAuthWithClientSideBlazor\src\ClientSideBlazor.Client\_Imports.razor"
 using BlazorAuthorization.Shared;
 
 #line default
 #line hidden
-#line 8 "Z:\Git\chrissainty\RoleBasedAuthWithClientSideBlazor\src\ClientSideBlazor.Client\_Imports.razor"
+#line 7 "Z:\Git\chrissainty\RoleBasedAuthWithClientSideBlazor\src\ClientSideBlazor.Client\_Imports.razor"
 using ClientSideBlazor.Client;
 
 #line default
 #line hidden
-#line 9 "Z:\Git\chrissainty\RoleBasedAuthWithClientSideBlazor\src\ClientSideBlazor.Client\_Imports.razor"
+#line 8 "Z:\Git\chrissainty\RoleBasedAuthWithClientSideBlazor\src\ClientSideBlazor.Client\_Imports.razor"
 using ClientSideBlazor.Client.Shared;
 
 #line default
 #line hidden
-#line 10 "Z:\Git\chrissainty\RoleBasedAuthWithClientSideBlazor\src\ClientSideBlazor.Client\_Imports.razor"
+#line 9 "Z:\Git\chrissainty\RoleBasedAuthWithClientSideBlazor\src\ClientSideBlazor.Client\_Imports.razor"
 using ClientSideBlazor.Client.Services;
 
 #line default
 #line hidden
-#line 12 "Z:\Git\chrissainty\RoleBasedAuthWithClientSideBlazor\src\ClientSideBlazor.Client\_Imports.razor"
+#line 11 "Z:\Git\chrissainty\RoleBasedAuthWithClientSideBlazor\src\ClientSideBlazor.Client\_Imports.razor"
 using Blazored.LocalStorage;
 
 #line default
 #line hidden
-    [Microsoft.AspNetCore.Components.Layouts.LayoutAttribute(typeof(MainLayout))]
+    [Microsoft.AspNetCore.Components.LayoutAttribute(typeof(MainLayout))]
     [Microsoft.AspNetCore.Components.RouteAttribute("/register")]
     public class Register : Microsoft.AspNetCore.Components.ComponentBase
     {
@@ -113,14 +108,14 @@ using Blazored.LocalStorage;
             builder.AddMarkupContent(16, "\n        ");
             builder.AddMarkupContent(17, "<h5 class=\"card-title\">Please enter your details</h5>\n        ");
             builder.OpenComponent<Microsoft.AspNetCore.Components.Forms.EditForm>(18);
-            builder.AddAttribute(19, "Model", Microsoft.AspNetCore.Components.RuntimeHelpers.TypeCheck<System.Object>(
+            builder.AddAttribute(19, "Model", Microsoft.AspNetCore.Components.CompilerServices.RuntimeHelpers.TypeCheck<System.Object>(
 #line 20 "Z:\Git\chrissainty\RoleBasedAuthWithClientSideBlazor\src\ClientSideBlazor.Client\Pages\Register.razor"
                           RegisterModel
 
 #line default
 #line hidden
             ));
-            builder.AddAttribute(20, "OnValidSubmit", Microsoft.AspNetCore.Components.RuntimeHelpers.TypeCheck<Microsoft.AspNetCore.Components.EventCallback<Microsoft.AspNetCore.Components.Forms.EditContext>>(Microsoft.AspNetCore.Components.EventCallback.Factory.Create<Microsoft.AspNetCore.Components.Forms.EditContext>(this, 
+            builder.AddAttribute(20, "OnValidSubmit", Microsoft.AspNetCore.Components.CompilerServices.RuntimeHelpers.TypeCheck<Microsoft.AspNetCore.Components.EventCallback<Microsoft.AspNetCore.Components.Forms.EditContext>>(Microsoft.AspNetCore.Components.EventCallback.Factory.Create<Microsoft.AspNetCore.Components.Forms.EditContext>(this, 
 #line 20 "Z:\Git\chrissainty\RoleBasedAuthWithClientSideBlazor\src\ClientSideBlazor.Client\Pages\Register.razor"
                                                          HandleRegistration
 
@@ -142,15 +137,15 @@ using Blazored.LocalStorage;
                 builder2.OpenComponent<Microsoft.AspNetCore.Components.Forms.InputText>(31);
                 builder2.AddAttribute(32, "Id", "email");
                 builder2.AddAttribute(33, "Class", "form-control");
-                builder2.AddAttribute(34, "Value", Microsoft.AspNetCore.Components.RuntimeHelpers.TypeCheck<System.String>(Microsoft.AspNetCore.Components.BindMethods.GetValue(
+                builder2.AddAttribute(34, "Value", Microsoft.AspNetCore.Components.CompilerServices.RuntimeHelpers.TypeCheck<System.String>(
 #line 26 "Z:\Git\chrissainty\RoleBasedAuthWithClientSideBlazor\src\ClientSideBlazor.Client\Pages\Register.razor"
                                                                          RegisterModel.Email
 
 #line default
 #line hidden
-                )));
-                builder2.AddAttribute(35, "ValueChanged", Microsoft.AspNetCore.Components.RuntimeHelpers.TypeCheck<Microsoft.AspNetCore.Components.EventCallback<System.String>>(Microsoft.AspNetCore.Components.EventCallback.Factory.Create<System.String>(this, Microsoft.AspNetCore.Components.EventCallback.Factory.CreateInferred(this, __value => RegisterModel.Email = __value, RegisterModel.Email))));
-                builder2.AddAttribute(36, "ValueExpression", Microsoft.AspNetCore.Components.RuntimeHelpers.TypeCheck<System.Linq.Expressions.Expression<System.Func<System.String>>>(() => RegisterModel.Email));
+                ));
+                builder2.AddAttribute(35, "ValueChanged", Microsoft.AspNetCore.Components.CompilerServices.RuntimeHelpers.TypeCheck<Microsoft.AspNetCore.Components.EventCallback<System.String>>(Microsoft.AspNetCore.Components.EventCallback.Factory.Create<System.String>(this, Microsoft.AspNetCore.Components.CompilerServices.RuntimeHelpers.CreateInferredEventCallback(this, __value => RegisterModel.Email = __value, RegisterModel.Email))));
+                builder2.AddAttribute(36, "ValueExpression", Microsoft.AspNetCore.Components.CompilerServices.RuntimeHelpers.TypeCheck<System.Linq.Expressions.Expression<System.Func<System.String>>>(() => RegisterModel.Email));
                 builder2.CloseComponent();
                 builder2.AddMarkupContent(37, "\n                ");
                 __Blazor.ClientSideBlazor.Client.Pages.Register.TypeInference.CreateValidationMessage_0(builder2, 38, 39, 
@@ -171,15 +166,15 @@ using Blazored.LocalStorage;
                 builder2.AddAttribute(47, "type", "password");
                 builder2.AddAttribute(48, "Id", "password");
                 builder2.AddAttribute(49, "Class", "form-control");
-                builder2.AddAttribute(50, "Value", Microsoft.AspNetCore.Components.RuntimeHelpers.TypeCheck<System.String>(Microsoft.AspNetCore.Components.BindMethods.GetValue(
+                builder2.AddAttribute(50, "Value", Microsoft.AspNetCore.Components.CompilerServices.RuntimeHelpers.TypeCheck<System.String>(
 #line 31 "Z:\Git\chrissainty\RoleBasedAuthWithClientSideBlazor\src\ClientSideBlazor.Client\Pages\Register.razor"
                                                                                             RegisterModel.Password
 
 #line default
 #line hidden
-                )));
-                builder2.AddAttribute(51, "ValueChanged", Microsoft.AspNetCore.Components.RuntimeHelpers.TypeCheck<Microsoft.AspNetCore.Components.EventCallback<System.String>>(Microsoft.AspNetCore.Components.EventCallback.Factory.Create<System.String>(this, Microsoft.AspNetCore.Components.EventCallback.Factory.CreateInferred(this, __value => RegisterModel.Password = __value, RegisterModel.Password))));
-                builder2.AddAttribute(52, "ValueExpression", Microsoft.AspNetCore.Components.RuntimeHelpers.TypeCheck<System.Linq.Expressions.Expression<System.Func<System.String>>>(() => RegisterModel.Password));
+                ));
+                builder2.AddAttribute(51, "ValueChanged", Microsoft.AspNetCore.Components.CompilerServices.RuntimeHelpers.TypeCheck<Microsoft.AspNetCore.Components.EventCallback<System.String>>(Microsoft.AspNetCore.Components.EventCallback.Factory.Create<System.String>(this, Microsoft.AspNetCore.Components.CompilerServices.RuntimeHelpers.CreateInferredEventCallback(this, __value => RegisterModel.Password = __value, RegisterModel.Password))));
+                builder2.AddAttribute(52, "ValueExpression", Microsoft.AspNetCore.Components.CompilerServices.RuntimeHelpers.TypeCheck<System.Linq.Expressions.Expression<System.Func<System.String>>>(() => RegisterModel.Password));
                 builder2.CloseComponent();
                 builder2.AddMarkupContent(53, "\n                ");
                 __Blazor.ClientSideBlazor.Client.Pages.Register.TypeInference.CreateValidationMessage_1(builder2, 54, 55, 
@@ -200,15 +195,15 @@ using Blazored.LocalStorage;
                 builder2.AddAttribute(63, "type", "password");
                 builder2.AddAttribute(64, "Id", "password");
                 builder2.AddAttribute(65, "Class", "form-control");
-                builder2.AddAttribute(66, "Value", Microsoft.AspNetCore.Components.RuntimeHelpers.TypeCheck<System.String>(Microsoft.AspNetCore.Components.BindMethods.GetValue(
+                builder2.AddAttribute(66, "Value", Microsoft.AspNetCore.Components.CompilerServices.RuntimeHelpers.TypeCheck<System.String>(
 #line 36 "Z:\Git\chrissainty\RoleBasedAuthWithClientSideBlazor\src\ClientSideBlazor.Client\Pages\Register.razor"
                                                                                             RegisterModel.ConfirmPassword
 
 #line default
 #line hidden
-                )));
-                builder2.AddAttribute(67, "ValueChanged", Microsoft.AspNetCore.Components.RuntimeHelpers.TypeCheck<Microsoft.AspNetCore.Components.EventCallback<System.String>>(Microsoft.AspNetCore.Components.EventCallback.Factory.Create<System.String>(this, Microsoft.AspNetCore.Components.EventCallback.Factory.CreateInferred(this, __value => RegisterModel.ConfirmPassword = __value, RegisterModel.ConfirmPassword))));
-                builder2.AddAttribute(68, "ValueExpression", Microsoft.AspNetCore.Components.RuntimeHelpers.TypeCheck<System.Linq.Expressions.Expression<System.Func<System.String>>>(() => RegisterModel.ConfirmPassword));
+                ));
+                builder2.AddAttribute(67, "ValueChanged", Microsoft.AspNetCore.Components.CompilerServices.RuntimeHelpers.TypeCheck<Microsoft.AspNetCore.Components.EventCallback<System.String>>(Microsoft.AspNetCore.Components.EventCallback.Factory.Create<System.String>(this, Microsoft.AspNetCore.Components.CompilerServices.RuntimeHelpers.CreateInferredEventCallback(this, __value => RegisterModel.ConfirmPassword = __value, RegisterModel.ConfirmPassword))));
+                builder2.AddAttribute(68, "ValueExpression", Microsoft.AspNetCore.Components.CompilerServices.RuntimeHelpers.TypeCheck<System.Linq.Expressions.Expression<System.Func<System.String>>>(() => RegisterModel.ConfirmPassword));
                 builder2.CloseComponent();
                 builder2.AddMarkupContent(69, "\n                ");
                 __Blazor.ClientSideBlazor.Client.Pages.Register.TypeInference.CreateValidationMessage_2(builder2, 70, 71, 

@@ -1,28 +1,33 @@
 {
   "format": 1,
   "restore": {
-    "/Users/chrissainty/Git/chrissainty/RoleBasedAuthWithClientSideBlazor/src/BlazorAuthorization.Shared/BlazorAuthorization.Shared.csproj": {}
+    "Z:\\Git\\chrissainty\\RoleBasedAuthWithClientSideBlazor\\src\\BlazorAuthorization.Shared\\BlazorAuthorization.Shared.csproj": {}
   },
   "projects": {
-    "/Users/chrissainty/Git/chrissainty/RoleBasedAuthWithClientSideBlazor/src/BlazorAuthorization.Shared/BlazorAuthorization.Shared.csproj": {
+    "Z:\\Git\\chrissainty\\RoleBasedAuthWithClientSideBlazor\\src\\BlazorAuthorization.Shared\\BlazorAuthorization.Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/chrissainty/Git/chrissainty/RoleBasedAuthWithClientSideBlazor/src/BlazorAuthorization.Shared/BlazorAuthorization.Shared.csproj",
+        "projectUniqueName": "Z:\\Git\\chrissainty\\RoleBasedAuthWithClientSideBlazor\\src\\BlazorAuthorization.Shared\\BlazorAuthorization.Shared.csproj",
         "projectName": "BlazorAuthorization.Shared",
-        "projectPath": "/Users/chrissainty/Git/chrissainty/RoleBasedAuthWithClientSideBlazor/src/BlazorAuthorization.Shared/BlazorAuthorization.Shared.csproj",
-        "packagesPath": "/Users/chrissainty/.nuget/packages/",
-        "outputPath": "/Users/chrissainty/Git/chrissainty/RoleBasedAuthWithClientSideBlazor/src/BlazorAuthorization.Shared/obj/",
+        "projectPath": "Z:\\Git\\chrissainty\\RoleBasedAuthWithClientSideBlazor\\src\\BlazorAuthorization.Shared\\BlazorAuthorization.Shared.csproj",
+        "packagesPath": "C:\\Users\\chrissainty\\.nuget\\packages\\",
+        "outputPath": "Z:\\Git\\chrissainty\\RoleBasedAuthWithClientSideBlazor\\src\\BlazorAuthorization.Shared\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+          "C:\\Program Files (x86)\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "/Users/chrissainty/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\chrissainty\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netstandard2.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Users\\chrissainty\\LocalNuGet": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -59,7 +64,8 @@
             "net48"
           ],
           "assetTargetFallback": true,
-          "warn": true
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100-preview8-013656\\RuntimeIdentifierGraph.json"
         }
       }
     }

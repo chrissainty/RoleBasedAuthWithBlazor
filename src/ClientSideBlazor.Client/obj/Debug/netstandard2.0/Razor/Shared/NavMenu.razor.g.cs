@@ -25,41 +25,36 @@ using Microsoft.AspNetCore.Components.Forms;
 #line default
 #line hidden
 #line 4 "Z:\Git\chrissainty\RoleBasedAuthWithClientSideBlazor\src\ClientSideBlazor.Client\_Imports.razor"
-using Microsoft.AspNetCore.Components.Layouts;
-
-#line default
-#line hidden
-#line 5 "Z:\Git\chrissainty\RoleBasedAuthWithClientSideBlazor\src\ClientSideBlazor.Client\_Imports.razor"
 using Microsoft.AspNetCore.Components.Routing;
 
 #line default
 #line hidden
-#line 6 "Z:\Git\chrissainty\RoleBasedAuthWithClientSideBlazor\src\ClientSideBlazor.Client\_Imports.razor"
+#line 5 "Z:\Git\chrissainty\RoleBasedAuthWithClientSideBlazor\src\ClientSideBlazor.Client\_Imports.razor"
 using Microsoft.JSInterop;
 
 #line default
 #line hidden
-#line 7 "Z:\Git\chrissainty\RoleBasedAuthWithClientSideBlazor\src\ClientSideBlazor.Client\_Imports.razor"
+#line 6 "Z:\Git\chrissainty\RoleBasedAuthWithClientSideBlazor\src\ClientSideBlazor.Client\_Imports.razor"
 using BlazorAuthorization.Shared;
 
 #line default
 #line hidden
-#line 8 "Z:\Git\chrissainty\RoleBasedAuthWithClientSideBlazor\src\ClientSideBlazor.Client\_Imports.razor"
+#line 7 "Z:\Git\chrissainty\RoleBasedAuthWithClientSideBlazor\src\ClientSideBlazor.Client\_Imports.razor"
 using ClientSideBlazor.Client;
 
 #line default
 #line hidden
-#line 9 "Z:\Git\chrissainty\RoleBasedAuthWithClientSideBlazor\src\ClientSideBlazor.Client\_Imports.razor"
+#line 8 "Z:\Git\chrissainty\RoleBasedAuthWithClientSideBlazor\src\ClientSideBlazor.Client\_Imports.razor"
 using ClientSideBlazor.Client.Shared;
 
 #line default
 #line hidden
-#line 10 "Z:\Git\chrissainty\RoleBasedAuthWithClientSideBlazor\src\ClientSideBlazor.Client\_Imports.razor"
+#line 9 "Z:\Git\chrissainty\RoleBasedAuthWithClientSideBlazor\src\ClientSideBlazor.Client\_Imports.razor"
 using ClientSideBlazor.Client.Services;
 
 #line default
 #line hidden
-#line 12 "Z:\Git\chrissainty\RoleBasedAuthWithClientSideBlazor\src\ClientSideBlazor.Client\_Imports.razor"
+#line 11 "Z:\Git\chrissainty\RoleBasedAuthWithClientSideBlazor\src\ClientSideBlazor.Client\_Imports.razor"
 using Blazored.LocalStorage;
 
 #line default
@@ -112,7 +107,7 @@ using Blazored.LocalStorage;
             builder.OpenComponent<Microsoft.AspNetCore.Components.Routing.NavLink>(20);
             builder.AddAttribute(21, "class", "nav-link");
             builder.AddAttribute(22, "href", "");
-            builder.AddAttribute(23, "Match", Microsoft.AspNetCore.Components.RuntimeHelpers.TypeCheck<Microsoft.AspNetCore.Components.Routing.NavLinkMatch>(
+            builder.AddAttribute(23, "Match", Microsoft.AspNetCore.Components.CompilerServices.RuntimeHelpers.TypeCheck<Microsoft.AspNetCore.Components.Routing.NavLinkMatch>(
 #line 11 "Z:\Git\chrissainty\RoleBasedAuthWithClientSideBlazor\src\ClientSideBlazor.Client\Shared\NavMenu.razor"
                                                      NavLinkMatch.All
 

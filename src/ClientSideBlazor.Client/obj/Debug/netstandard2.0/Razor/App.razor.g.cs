@@ -25,41 +25,36 @@ using Microsoft.AspNetCore.Components.Forms;
 #line default
 #line hidden
 #line 4 "Z:\Git\chrissainty\RoleBasedAuthWithClientSideBlazor\src\ClientSideBlazor.Client\_Imports.razor"
-using Microsoft.AspNetCore.Components.Layouts;
-
-#line default
-#line hidden
-#line 5 "Z:\Git\chrissainty\RoleBasedAuthWithClientSideBlazor\src\ClientSideBlazor.Client\_Imports.razor"
 using Microsoft.AspNetCore.Components.Routing;
 
 #line default
 #line hidden
-#line 6 "Z:\Git\chrissainty\RoleBasedAuthWithClientSideBlazor\src\ClientSideBlazor.Client\_Imports.razor"
+#line 5 "Z:\Git\chrissainty\RoleBasedAuthWithClientSideBlazor\src\ClientSideBlazor.Client\_Imports.razor"
 using Microsoft.JSInterop;
 
 #line default
 #line hidden
-#line 7 "Z:\Git\chrissainty\RoleBasedAuthWithClientSideBlazor\src\ClientSideBlazor.Client\_Imports.razor"
+#line 6 "Z:\Git\chrissainty\RoleBasedAuthWithClientSideBlazor\src\ClientSideBlazor.Client\_Imports.razor"
 using BlazorAuthorization.Shared;
 
 #line default
 #line hidden
-#line 8 "Z:\Git\chrissainty\RoleBasedAuthWithClientSideBlazor\src\ClientSideBlazor.Client\_Imports.razor"
+#line 7 "Z:\Git\chrissainty\RoleBasedAuthWithClientSideBlazor\src\ClientSideBlazor.Client\_Imports.razor"
 using ClientSideBlazor.Client;
 
 #line default
 #line hidden
-#line 9 "Z:\Git\chrissainty\RoleBasedAuthWithClientSideBlazor\src\ClientSideBlazor.Client\_Imports.razor"
+#line 8 "Z:\Git\chrissainty\RoleBasedAuthWithClientSideBlazor\src\ClientSideBlazor.Client\_Imports.razor"
 using ClientSideBlazor.Client.Shared;
 
 #line default
 #line hidden
-#line 10 "Z:\Git\chrissainty\RoleBasedAuthWithClientSideBlazor\src\ClientSideBlazor.Client\_Imports.razor"
+#line 9 "Z:\Git\chrissainty\RoleBasedAuthWithClientSideBlazor\src\ClientSideBlazor.Client\_Imports.razor"
 using ClientSideBlazor.Client.Services;
 
 #line default
 #line hidden
-#line 12 "Z:\Git\chrissainty\RoleBasedAuthWithClientSideBlazor\src\ClientSideBlazor.Client\_Imports.razor"
+#line 11 "Z:\Git\chrissainty\RoleBasedAuthWithClientSideBlazor\src\ClientSideBlazor.Client\_Imports.razor"
 using Blazored.LocalStorage;
 
 #line default
@@ -73,7 +68,7 @@ using Blazored.LocalStorage;
             builder.AddAttribute(1, "ChildContent", (Microsoft.AspNetCore.Components.RenderFragment)((builder2) => {
                 builder2.AddMarkupContent(2, "\n    ");
                 builder2.OpenComponent<Microsoft.AspNetCore.Components.Routing.Router>(3);
-                builder2.AddAttribute(4, "AppAssembly", Microsoft.AspNetCore.Components.RuntimeHelpers.TypeCheck<System.Reflection.Assembly>(
+                builder2.AddAttribute(4, "AppAssembly", Microsoft.AspNetCore.Components.CompilerServices.RuntimeHelpers.TypeCheck<System.Reflection.Assembly>(
 #line 2 "Z:\Git\chrissainty\RoleBasedAuthWithClientSideBlazor\src\ClientSideBlazor.Client\App.razor"
                          typeof(Program).Assembly
 

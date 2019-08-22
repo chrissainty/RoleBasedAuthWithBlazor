@@ -144,8 +144,6 @@ Z:\Git\chrissainty\AuthorizationWithClientSideBlazor\src\ClientSideBlazor.Client
 Z:\Git\chrissainty\AuthorizationWithClientSideBlazor\src\ClientSideBlazor.Client\obj\Debug\netstandard2.0\blazor\blazor.boot.json
 Z:\Git\chrissainty\AuthorizationWithClientSideBlazor\src\ClientSideBlazor.Client\obj\Debug\netstandard2.0\blazor\_content\Blazored.LocalStorage\blazored-localstorage.js
 Z:\Git\chrissainty\AuthorizationWithClientSideBlazor\src\ClientSideBlazor.Client\obj\Debug\netstandard2.0\blazor\_content\Blazored.LocalStorage\blazored-localstorage.ts
-Z:\Git\chrissainty\RoleBasedAuthWithClientSideBlazor\src\ClientSideBlazor.Client\bin\Debug\netstandard2.0\Properties\launchSettings.json
-Z:\Git\chrissainty\RoleBasedAuthWithClientSideBlazor\src\ClientSideBlazor.Client\bin\Debug\netstandard2.0\ClientSideBlazor.Client.StaticWebAssets.xml
 Z:\Git\chrissainty\RoleBasedAuthWithClientSideBlazor\src\ClientSideBlazor.Client\bin\Debug\netstandard2.0\ClientSideBlazor.Client.blazor.config
 Z:\Git\chrissainty\RoleBasedAuthWithClientSideBlazor\src\ClientSideBlazor.Client\bin\Debug\netstandard2.0\ClientSideBlazor.Client.dll
 Z:\Git\chrissainty\RoleBasedAuthWithClientSideBlazor\src\ClientSideBlazor.Client\bin\Debug\netstandard2.0\ClientSideBlazor.Client.pdb
@@ -154,7 +152,6 @@ Z:\Git\chrissainty\RoleBasedAuthWithClientSideBlazor\src\ClientSideBlazor.Client
 Z:\Git\chrissainty\RoleBasedAuthWithClientSideBlazor\src\ClientSideBlazor.Client\bin\Debug\netstandard2.0\dist\_framework\_bin\ClientSideBlazor.Client.dll
 Z:\Git\chrissainty\RoleBasedAuthWithClientSideBlazor\src\ClientSideBlazor.Client\bin\Debug\netstandard2.0\dist\_framework\_bin\Microsoft.AspNetCore.Authorization.dll
 Z:\Git\chrissainty\RoleBasedAuthWithClientSideBlazor\src\ClientSideBlazor.Client\bin\Debug\netstandard2.0\dist\_framework\_bin\Microsoft.AspNetCore.Blazor.dll
-Z:\Git\chrissainty\RoleBasedAuthWithClientSideBlazor\src\ClientSideBlazor.Client\bin\Debug\netstandard2.0\dist\_framework\_bin\Microsoft.AspNetCore.Components.Browser.dll
 Z:\Git\chrissainty\RoleBasedAuthWithClientSideBlazor\src\ClientSideBlazor.Client\bin\Debug\netstandard2.0\dist\_framework\_bin\Microsoft.AspNetCore.Components.dll
 Z:\Git\chrissainty\RoleBasedAuthWithClientSideBlazor\src\ClientSideBlazor.Client\bin\Debug\netstandard2.0\dist\_framework\_bin\Microsoft.AspNetCore.Metadata.dll
 Z:\Git\chrissainty\RoleBasedAuthWithClientSideBlazor\src\ClientSideBlazor.Client\bin\Debug\netstandard2.0\dist\_framework\_bin\Microsoft.Bcl.AsyncInterfaces.dll
@@ -184,13 +181,10 @@ Z:\Git\chrissainty\RoleBasedAuthWithClientSideBlazor\src\ClientSideBlazor.Client
 Z:\Git\chrissainty\RoleBasedAuthWithClientSideBlazor\src\ClientSideBlazor.Client\bin\Debug\netstandard2.0\dist\_framework\_bin\BlazorAuthorization.Shared.pdb
 Z:\Git\chrissainty\RoleBasedAuthWithClientSideBlazor\src\ClientSideBlazor.Client\bin\Debug\netstandard2.0\dist\_framework\_bin\ClientSideBlazor.Client.pdb
 Z:\Git\chrissainty\RoleBasedAuthWithClientSideBlazor\src\ClientSideBlazor.Client\bin\Debug\netstandard2.0\dist\_framework\blazor.boot.json
-Z:\Git\chrissainty\RoleBasedAuthWithClientSideBlazor\src\ClientSideBlazor.Client\bin\Debug\netstandard2.0\dist\_content\Blazored.LocalStorage\blazored-localstorage.js
-Z:\Git\chrissainty\RoleBasedAuthWithClientSideBlazor\src\ClientSideBlazor.Client\bin\Debug\netstandard2.0\dist\_content\Blazored.LocalStorage\blazored-localstorage.ts
 Z:\Git\chrissainty\RoleBasedAuthWithClientSideBlazor\src\ClientSideBlazor.Client\bin\Debug\netstandard2.0\Blazored.LocalStorage.dll
 Z:\Git\chrissainty\RoleBasedAuthWithClientSideBlazor\src\ClientSideBlazor.Client\bin\Debug\netstandard2.0\Microsoft.AspNetCore.Authorization.dll
 Z:\Git\chrissainty\RoleBasedAuthWithClientSideBlazor\src\ClientSideBlazor.Client\bin\Debug\netstandard2.0\Microsoft.AspNetCore.Blazor.dll
 Z:\Git\chrissainty\RoleBasedAuthWithClientSideBlazor\src\ClientSideBlazor.Client\bin\Debug\netstandard2.0\Microsoft.AspNetCore.Components.dll
-Z:\Git\chrissainty\RoleBasedAuthWithClientSideBlazor\src\ClientSideBlazor.Client\bin\Debug\netstandard2.0\Microsoft.AspNetCore.Components.Browser.dll
 Z:\Git\chrissainty\RoleBasedAuthWithClientSideBlazor\src\ClientSideBlazor.Client\bin\Debug\netstandard2.0\Microsoft.AspNetCore.Metadata.dll
 Z:\Git\chrissainty\RoleBasedAuthWithClientSideBlazor\src\ClientSideBlazor.Client\bin\Debug\netstandard2.0\Microsoft.Bcl.AsyncInterfaces.dll
 Z:\Git\chrissainty\RoleBasedAuthWithClientSideBlazor\src\ClientSideBlazor.Client\bin\Debug\netstandard2.0\Microsoft.Extensions.DependencyInjection.dll
@@ -212,7 +206,6 @@ Z:\Git\chrissainty\RoleBasedAuthWithClientSideBlazor\src\ClientSideBlazor.Client
 Z:\Git\chrissainty\RoleBasedAuthWithClientSideBlazor\src\ClientSideBlazor.Client\obj\Debug\netstandard2.0\ClientSideBlazor.Client.csprojAssemblyReference.cache
 Z:\Git\chrissainty\RoleBasedAuthWithClientSideBlazor\src\ClientSideBlazor.Client\obj\Debug\netstandard2.0\staticwebassets\ClientSideBlazor.Client.StaticWebAssets.Manifest.cache
 Z:\Git\chrissainty\RoleBasedAuthWithClientSideBlazor\src\ClientSideBlazor.Client\obj\Debug\netstandard2.0\staticwebassets\ClientSideBlazor.Client.StaticWebAssets.xml
-Z:\Git\chrissainty\RoleBasedAuthWithClientSideBlazor\src\ClientSideBlazor.Client\obj\Debug\netstandard2.0\ClientSideBlazor.Client.csproj.CoreCompileInputs.cache
 Z:\Git\chrissainty\RoleBasedAuthWithClientSideBlazor\src\ClientSideBlazor.Client\obj\Debug\netstandard2.0\ClientSideBlazor.Client.RazorComponent.input.cache
 Z:\Git\chrissainty\RoleBasedAuthWithClientSideBlazor\src\ClientSideBlazor.Client\obj\Debug\netstandard2.0\RazorDeclaration\App.razor.g.cs
 Z:\Git\chrissainty\RoleBasedAuthWithClientSideBlazor\src\ClientSideBlazor.Client\obj\Debug\netstandard2.0\RazorDeclaration\Pages\Counter.razor.g.cs
@@ -261,7 +254,6 @@ Z:\Git\chrissainty\RoleBasedAuthWithClientSideBlazor\src\ClientSideBlazor.Client
 Z:\Git\chrissainty\RoleBasedAuthWithClientSideBlazor\src\ClientSideBlazor.Client\obj\Debug\netstandard2.0\blazor\linker\ClientSideBlazor.Client.dll
 Z:\Git\chrissainty\RoleBasedAuthWithClientSideBlazor\src\ClientSideBlazor.Client\obj\Debug\netstandard2.0\blazor\linker\Microsoft.AspNetCore.Authorization.dll
 Z:\Git\chrissainty\RoleBasedAuthWithClientSideBlazor\src\ClientSideBlazor.Client\obj\Debug\netstandard2.0\blazor\linker\Microsoft.AspNetCore.Blazor.dll
-Z:\Git\chrissainty\RoleBasedAuthWithClientSideBlazor\src\ClientSideBlazor.Client\obj\Debug\netstandard2.0\blazor\linker\Microsoft.AspNetCore.Components.Browser.dll
 Z:\Git\chrissainty\RoleBasedAuthWithClientSideBlazor\src\ClientSideBlazor.Client\obj\Debug\netstandard2.0\blazor\linker\Microsoft.AspNetCore.Components.dll
 Z:\Git\chrissainty\RoleBasedAuthWithClientSideBlazor\src\ClientSideBlazor.Client\obj\Debug\netstandard2.0\blazor\linker\Microsoft.AspNetCore.Metadata.dll
 Z:\Git\chrissainty\RoleBasedAuthWithClientSideBlazor\src\ClientSideBlazor.Client\obj\Debug\netstandard2.0\blazor\linker\Microsoft.Bcl.AsyncInterfaces.dll
@@ -288,5 +280,12 @@ Z:\Git\chrissainty\RoleBasedAuthWithClientSideBlazor\src\ClientSideBlazor.Client
 Z:\Git\chrissainty\RoleBasedAuthWithClientSideBlazor\src\ClientSideBlazor.Client\obj\Debug\netstandard2.0\blazor\linker\ClientSideBlazor.Client.pdb
 Z:\Git\chrissainty\RoleBasedAuthWithClientSideBlazor\src\ClientSideBlazor.Client\obj\Debug\netstandard2.0\blazor\inputs.bootjson.cache
 Z:\Git\chrissainty\RoleBasedAuthWithClientSideBlazor\src\ClientSideBlazor.Client\obj\Debug\netstandard2.0\blazor\blazor.boot.json
-Z:\Git\chrissainty\RoleBasedAuthWithClientSideBlazor\src\ClientSideBlazor.Client\obj\Debug\netstandard2.0\blazor\_content\Blazored.LocalStorage\blazored-localstorage.js
-Z:\Git\chrissainty\RoleBasedAuthWithClientSideBlazor\src\ClientSideBlazor.Client\obj\Debug\netstandard2.0\blazor\_content\Blazored.LocalStorage\blazored-localstorage.ts
+Z:\Git\chrissainty\RoleBasedAuthWithClientSideBlazor\src\ClientSideBlazor.Client\bin\Debug\netstandard2.0\Microsoft.AspNetCore.Components.Web.dll
+Z:\Git\chrissainty\RoleBasedAuthWithClientSideBlazor\src\ClientSideBlazor.Client\bin\Debug\netstandard2.0\System.Text.Encodings.Web.dll
+Z:\Git\chrissainty\RoleBasedAuthWithClientSideBlazor\src\ClientSideBlazor.Client\bin\Debug\netstandard2.0\dist\_framework\_bin\Microsoft.AspNetCore.Blazor.HttpClient.dll
+Z:\Git\chrissainty\RoleBasedAuthWithClientSideBlazor\src\ClientSideBlazor.Client\bin\Debug\netstandard2.0\dist\_framework\_bin\Microsoft.AspNetCore.Components.Web.dll
+Z:\Git\chrissainty\RoleBasedAuthWithClientSideBlazor\src\ClientSideBlazor.Client\bin\Debug\netstandard2.0\dist\_framework\_bin\System.Text.Encodings.Web.dll
+Z:\Git\chrissainty\RoleBasedAuthWithClientSideBlazor\src\ClientSideBlazor.Client\bin\Debug\netstandard2.0\Microsoft.AspNetCore.Blazor.HttpClient.dll
+Z:\Git\chrissainty\RoleBasedAuthWithClientSideBlazor\src\ClientSideBlazor.Client\obj\Debug\netstandard2.0\blazor\linker\Microsoft.AspNetCore.Blazor.HttpClient.dll
+Z:\Git\chrissainty\RoleBasedAuthWithClientSideBlazor\src\ClientSideBlazor.Client\obj\Debug\netstandard2.0\blazor\linker\Microsoft.AspNetCore.Components.Web.dll
+Z:\Git\chrissainty\RoleBasedAuthWithClientSideBlazor\src\ClientSideBlazor.Client\obj\Debug\netstandard2.0\blazor\linker\System.Text.Encodings.Web.dll
