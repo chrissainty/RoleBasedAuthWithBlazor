@@ -1,4 +1,0 @@
-Z:\Git\chrissainty\AuthorizationWithClientSideBlazor\src\AuthenticationWithClientSideBlazor.Server\obj\Debug\netcoreapp3.0\AuthorizationWithClientSideBlazor.Server.csprojAssemblyReference.cache
-Z:\Git\chrissainty\AuthorizationWithClientSideBlazor\src\AuthenticationWithClientSideBlazor.Server\obj\Debug\netcoreapp3.0\staticwebassets\AuthorizationWithClientSideBlazor.Server.StaticWebAssets.Manifest.cache
-Z:\Git\chrissainty\AuthorizationWithClientSideBlazor\src\AuthenticationWithClientSideBlazor.Server\obj\Debug\netcoreapp3.0\staticwebassets\AuthorizationWithClientSideBlazor.Server.StaticWebAssets.xml
-Z:\Git\chrissainty\AuthorizationWithClientSideBlazor\src\AuthenticationWithClientSideBlazor.Server\obj\Debug\netcoreapp3.0\AuthorizationWithClientSideBlazor.Server.csproj.CoreCompileInputs.cache

@@ -1,4 +1,0 @@
-﻿<StaticWebAssets Version="1.0">
-  <ContentRoot BasePath="_content/AuthenticationWithClientSideBlazor.Client" Path="Z:\Git\chrissainty\AuthenticationWithClientSideBlazor\src\AuthenticationWithClientSideBlazor.Client\wwwroot\" />
-  <ContentRoot BasePath="_content/microsoftaspnetcoreidentityui" Path="C:\Users\chrissainty\.nuget\packages\microsoft.aspnetcore.identity.ui\3.0.0-preview6.19307.2\build\..\staticwebassets\" />
-</StaticWebAssets>
