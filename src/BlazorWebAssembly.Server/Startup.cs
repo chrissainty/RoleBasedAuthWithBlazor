@@ -1,5 +1,5 @@
 using BlazorAuthorization.Shared;
-using ClientSideBlazor.Server.Data;
+using BlazorWebAssembly.Server.Data;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
@@ -13,7 +13,7 @@ using Microsoft.IdentityModel.Tokens;
 using System.Linq;
 using System.Text;
 
-namespace ClientSideBlazor.Server
+namespace BlazorWebAssembly.Server
 {
     public class Startup
     {

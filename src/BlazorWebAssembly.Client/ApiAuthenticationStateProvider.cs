@@ -10,7 +10,7 @@ using System.Security.Claims;
 using System.Text.Json;
 using System.Threading.Tasks;
 
-namespace ClientSideBlazor.Client
+namespace BlazorWebAssembly.Client
 {
     public class ApiAuthenticationStateProvider : AuthenticationStateProvider
     {

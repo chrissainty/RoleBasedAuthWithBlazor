@@ -5,7 +5,7 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 
-namespace ClientSideBlazor.Server.Controllers
+namespace BlazorWebAssembly.Server.Controllers
 {
     [Authorize(Roles = "Admin")]
     [Route("api/[controller]")]

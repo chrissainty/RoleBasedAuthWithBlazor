@@ -1,7 +1,7 @@
 ﻿using BlazorAuthorization.Shared;
 using System.Threading.Tasks;
 
-namespace ClientSideBlazor.Client.Services
+namespace BlazorWebAssembly.Client.Services
 {
     public interface IAuthService
     {

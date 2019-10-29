@@ -1,12 +1,13 @@
 ﻿using BlazorAuthorization.Shared;
 using Blazored.LocalStorage;
+using BlazorWebAssembly.Client;
 using Microsoft.AspNetCore.Components;
 using Microsoft.AspNetCore.Components.Authorization;
 using System.Net.Http;
 using System.Net.Http.Headers;
 using System.Threading.Tasks;
 
-namespace ClientSideBlazor.Client.Services
+namespace BlazorWebAssembly.Client.Services
 {
     public class AuthService : IAuthService
     {

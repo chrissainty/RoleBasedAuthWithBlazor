@@ -2,7 +2,7 @@
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Configuration;
 
-namespace ClientSideBlazor.Server
+namespace BlazorWebAssembly.Server
 {
     public class Program
     {
